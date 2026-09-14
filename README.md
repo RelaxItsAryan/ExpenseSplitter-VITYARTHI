@@ -1,5 +1,8 @@
 # Expense Splitter
 
+<img width="1712" height="1118" alt="image" src="https://github.com/user-attachments/assets/f3f4b3c6-0028-4b62-800c-eac939c7a78c" />
+
+
 Expense Splitter is a small Java application for managing shared group expenses. It calculates each member's balance and shows which members owe money or should receive money.
 
 The project provides two interfaces:
